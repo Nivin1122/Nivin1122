@@ -29,9 +29,7 @@ I'm a passionate Full-Stack Developer with a keen eye for creating elegant and e
   <a href="https://leetcode.com/Nivin77">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="tel:+917708183333">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
+  
   <a href="https://github.com/Nivin1122">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
