@@ -20,7 +20,7 @@ I'm a passionate Full-Stack Developer with a keen eye for creating elegant and e
 
 ## 📬 Connect with Me
 <div align="center">
-  <a href="mailto:bnivin71@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bnivin71@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/nivinb">
