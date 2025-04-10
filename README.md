@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer with a keen eye for creating elegant and e
 
 ### 🏆 Achievements
 - 🥇 Solved 150+ LeetCode problems
-- 🏅 completed a Freelance Work
+- 🏅 completed a Freelance Work using NEXTjs, TYPESCRIPT, SCSS
 - 🎯 Built 30+ full-stack applications
 
 
